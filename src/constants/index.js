@@ -23,6 +23,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    silver,
+    bronze
   } from "../assets";
   
   export const navLinks = [
@@ -46,21 +48,21 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
-      icon: web,
+      title: "International Blockchain Olympiad 2022",
+      icon: silver,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
+      title: "Bangladesh Blockchain Olympiad 2022",
+      icon: bronze,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
+      title: "Bangladesh Robot Olympiad 2019",
+      icon: silver,
     },
-    {
-      title: "Content Creator",
-      icon: creator,
-    },
+    // {
+    //   title: "Content Creator",
+    //   icon: creator,
+    // },
   ];
   
   const people = [

@@ -1,4 +1,6 @@
 import hamidur from "./hamidur.png";
+import silver from "./silver.png";
+import bronze from "./bronze.png";
 
 import logo from "./logo.svg";
 import backend from "./backend.png";
@@ -34,6 +36,8 @@ import tripguide from "./tripguide.png";
 
 export {
   hamidur,
+  bronze,
+  silver,
   logo,
   backend,
   creator,
